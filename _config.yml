@@ -1,0 +1,14 @@
+layout_spectrum: 0.6782189493533224
+typography_spectrum: 0.19953929469920695
+color:
+  brandStrength: 0.8780860502738506
+  lightness: 0.8783232513815165
+  saturation: 0.1917398499790579
+  rhythmicContrast: 0.0737702096812427
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: NILO
